@@ -1,0 +1,20 @@
+@{
+    Layout = "Admin/_Master";
+}
+
+<h1>Admin</h1>
+<canvas width="600" height="900"></canvas>
+
+<script>
+    const canvas = document.querySelector('canvas')
+
+    const context = canvas.getContext('2d')
+    let y = 0
+
+    setInterval(() => {
+        context.clearRect(0, 0, canvas.width, canvas.height)
+        y++
+        context.fillRect(100, y, 100, 100);
+    }, 30)
+
+</script>

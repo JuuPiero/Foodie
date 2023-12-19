@@ -1,0 +1,103 @@
+@model AppCore.Models.ViewModels.OrderRequest
+@{
+    Layout = "Client/_Master";
+    ViewData["Title"] = "Cart";
+    var orderItems = ViewData["OrderItems"] as List<OrderItemViewModel>;
+    @* var paymentMethods = ViewData["PaymentMethods"]  as List<PaymentMethod>; *@
+    decimal totalAmount = 0;
+
+    foreach (var item in orderItems) {
+        totalAmount += item.Price * item.Quantity;
+    }
+    bool isAuthenticated = Context.User.Identity.IsAuthenticated;
+
+}
+
+<!-- breadcrumb-section -->
+<div class="breadcrumb-section breadcrumb-bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2 text-center">
+                <div class="breadcrumb-text">
+                    <p>Attractive & Science Fiction</p>
+                    <h1>Cart</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end breadcrumb section -->
+
+<!-- cart -->
+<div class="cart-section mt-150 mb-150">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-12">
+                <div class="cart-table-wrap">
+                    <table class="cart-table">
+                        <thead class="cart-table-head">
+                            <tr class="table-head-row">
+                                <th class="product-remove"></th>
+                                <th class="product-image">Product Image</th>
+                                <th class="product-name">Name</th>
+                                <th class="product-price">Price</th>
+                                <th class="product-quantity">Quantity</th>
+                                <th class="product-total">Total</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in orderItems) {
+                                <tr class="table-body-row">
+                                    <td class="product-remove" data-id="@item.ProductId"><a ><i class="far fa-window-close"></i></a></td>
+                                    <td class="product-image"><img src="@item.Image" alt=""></td>
+                                    <td class="product-name">@item.ProductName</td>
+                                    <td class="product-price">$@item.Price</td>
+                                    <td class="product-quantity"><input type="number" placeholder="@item.Quantity"></td>
+                                    <td class="product-total">@(item.Price * item.Quantity)</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="total-section">
+                    <table class="total-table">
+                        <thead class="total-table-head">
+                            <tr class="table-total-row">
+                                <th>Total</th>
+                                <th>Price</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="total-data">
+                                <td><strong>Total: </strong></td>
+                                <td>$ @totalAmount</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="cart-buttons">
+                        @if(isAuthenticated && orderItems.Count > 0) {
+                            <a asp-action="Index" asp-controller="Checkout" class="boxed-btn black">Check Out</a>
+                        }
+                        else if(isAuthenticated && orderItems.Count == 0) {
+                            <a class="boxed-btn black">Cart Empty</a>
+                        }
+                        else {
+                            <a asp-action="Login" asp-controller="User" class="boxed-btn black">You need to login</a>
+                        }
+                    </div>
+                </div>
+             
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Script {
+<script>
+    removeFromCart()
+</script>
+}
+<!-- end cart -->

@@ -1,0 +1,1237 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\css\\animate.css\\css\\animate.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\animate.css\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\css\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\css\\jquery.mCustomScrollbar.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\jquery.mCustomScrollbar.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\css\\morris.js\\css\\morris.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\morris.js\\css\\morris.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\icon\\icofont\\css\\icofont.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\css\\icofont.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\fonts\\icofont.eot"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\fonts\\icofont.svg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\fonts\\icofont.ttf"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\icon\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\auth\\Logo-small-bottom.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\Logo-small-bottom.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\auth\\logo-dark.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\logo-dark.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\auth\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\logo.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-1.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-2.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-3.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-4.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\bg.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\flags\\ENGLISH.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\flags\\ENGLISH.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\flags\\FRANCE.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\flags\\FRANCE.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\flags\\PORTO.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\flags\\PORTO.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\flags\\SPAIN.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\flags\\SPAIN.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\mega-menu\\01.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\mega-menu\\01.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\mega-menu\\02.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\mega-menu\\02.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\mega-menu\\03.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\mega-menu\\03.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\mega-menu\\04.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\mega-menu\\04.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\mega-menu\\05.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\mega-menu\\05.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\mega-menu\\06.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\mega-menu\\06.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\pattern2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\pattern2.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\images\\user.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\user.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\SmoothScroll.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\SmoothScroll.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\bootstrap-growl.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\bootstrap-growl.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\classie.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\classie.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\classie\\classie.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\classie\\classie.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\common-pages.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\common-pages.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\demo-12.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo-12.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\jquery-slimscroll\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery-slimscroll\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\modernizr\\css-scrollbars.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\modernizr\\css-scrollbars.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\modernizr\\modernizr.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\modernizr\\modernizr.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\morris.js\\morris.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\morris.js\\morris.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\pcoded.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\pcoded.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\popper.js\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\popper.js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\js\\script.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\script.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\accordion\\accordion.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\accordion\\accordion.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\accordion\\accordion.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\accordion\\accordion.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\chart\\morris\\morris-custom-chart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\chart\\morris\\morris-custom-chart.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\css\\amchart.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\css\\amchart.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\css\\export.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\css\\export.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\amcharts.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\amcharts.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\custom-amchart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\custom-amchart.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\export.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\export.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBig.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBig.svg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBigH.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBigH.svg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\light.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\light.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\serial.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\serial.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\dashboard\\custom-dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\custom-dashboard.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\google-maps\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\google-maps\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\google-maps\\jquery.gmaps.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\google-maps\\jquery.gmaps.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\icon-modal.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\icon-modal.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\notification\\notification.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\notification\\notification.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\notification\\notification.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\notification\\notification.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\todo\\todo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\todo\\todo.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\amcharts.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\amcharts.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\amcharts.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\amcharts.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\ammap.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\ammap.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\ammap.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\ammap.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\continentsLow.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\continentsLow.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\continentsLow.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\continentsLow.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\gauge.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\gauge.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\gauge.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\gauge.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\light.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\light.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\light.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\light.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\pie.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\pie.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\pie.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\pie.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\serial.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\serial.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\serial.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\serial.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\worldLow.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\worldLow.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\worldLow.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\worldLow.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\admin\\js\\remove.js",
+      "PackagePath": "staticwebassets\\admin\\js\\remove.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\client\\assets\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\meanmenu.min.css",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\meanmenu.min.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\base\\_mixins.scss",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\base\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\base\\_typography.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\base\\_variables.scss",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\base\\_variables.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\common\\_common.scss",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\common\\_common.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\common\\_footer.scss",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\common\\_footer.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\common\\_header.scss",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\common\\_header.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\common\\_hover.scss",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\common\\_hover.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\main.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\pages\\_404.css",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\pages\\_404.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\pages\\_404.scss",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\pages\\_404.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\pages\\_about.scss",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\pages\\_about.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\pages\\_contact.scss",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\pages\\_contact.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\pages\\_shop.scss",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\pages\\_shop.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\prepros-6.config",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\prepros-6.config"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\sections\\_about.scss",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\sections\\_about.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\sections\\_cart-banner.scss",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\sections\\_cart-banner.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\sections\\_hero.scss",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\sections\\_hero.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\sections\\_list.scss",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\sections\\_list.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\sections\\_news.scss",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\sections\\_news.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\sections\\_shop-banner.scss",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\sections\\_shop-banner.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\css\\scss\\sections\\_testimonials.scss",
+      "PackagePath": "staticwebassets\\client\\assets\\css\\scss\\sections\\_testimonials.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\1.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\a.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\a.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\abt.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\abt.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\avaters\\avatar1.png",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\avaters\\avatar1.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\avaters\\avatar2.png",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\avaters\\avatar2.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\avaters\\avatar3.png",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\avaters\\avatar3.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\company-logos\\1.png",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\company-logos\\1.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\company-logos\\2.png",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\company-logos\\2.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\company-logos\\3.png",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\company-logos\\3.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\company-logos\\4.png",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\company-logos\\4.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\company-logos\\5.png",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\company-logos\\5.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\dd.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\dd.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\feature-bg.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\feature-bg.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\hero-bg-2.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\hero-bg-2.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\hero-bg-3.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\hero-bg-3.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\homepage-bg-pattern.png",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\homepage-bg-pattern.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\latest-news\\news-bg-1.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\latest-news\\news-bg-1.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\latest-news\\news-bg-2.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\latest-news\\news-bg-2.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\latest-news\\news-bg-3.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\latest-news\\news-bg-3.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\latest-news\\news-bg-4.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\latest-news\\news-bg-4.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\latest-news\\news-bg-5.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\latest-news\\news-bg-5.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\latest-news\\news-bg-6.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\latest-news\\news-bg-6.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\products\\product-img-1.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\products\\product-img-1.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\products\\product-img-2.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\products\\product-img-2.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\products\\product-img-3.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\products\\product-img-3.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\products\\product-img-4.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\products\\product-img-4.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\products\\product-img-5.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\products\\product-img-5.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\products\\product-img-6.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\products\\product-img-6.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\imgstorebook\\240_F_405931625_dtLZDca2FCBTefOyKNFwL1cpLJEDFDIj.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\imgstorebook\\240_F_405931625_dtLZDca2FCBTefOyKNFwL1cpLJEDFDIj.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\imgstorebook\\240_F_405931625_dtLZDca2FCBTefOyKNFwL1cpLJEDFDIj_preview_rev_1.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\imgstorebook\\240_F_405931625_dtLZDca2FCBTefOyKNFwL1cpLJEDFDIj_preview_rev_1.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\imgstorebook\\author-book-store-book-cover-06.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\imgstorebook\\author-book-store-book-cover-06.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\imgstorebook\\author-book-store-book-cover-07.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\imgstorebook\\author-book-store-book-cover-07.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\imgstorebook\\author-book-store-book-cover-08.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\imgstorebook\\author-book-store-book-cover-08.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\imgstorebook\\author-book-store-book-img-01.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\imgstorebook\\author-book-store-book-img-01.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\imgstorebook\\author-book-store-book-img-02.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\imgstorebook\\author-book-store-book-img-02.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\imgstorebook\\author-book-store-book-img-04.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\imgstorebook\\author-book-store-book-img-04.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\imgstorebook\\background.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\imgstorebook\\background.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\imgstorebook\\tải xuống.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\imgstorebook\\tải xuống.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\js\\form-validate.js",
+      "PackagePath": "staticwebassets\\client\\assets\\js\\form-validate.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\js\\jquery-1.11.3.min.js",
+      "PackagePath": "staticwebassets\\client\\assets\\js\\jquery-1.11.3.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\js\\jquery.countdown.js",
+      "PackagePath": "staticwebassets\\client\\assets\\js\\jquery.countdown.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\js\\jquery.isotope-3.0.6.min.js",
+      "PackagePath": "staticwebassets\\client\\assets\\js\\jquery.isotope-3.0.6.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\client\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\js\\jquery.meanmenu.min.js",
+      "PackagePath": "staticwebassets\\client\\assets\\js\\jquery.meanmenu.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\client\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\client\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\js\\sticker.js",
+      "PackagePath": "staticwebassets\\client\\assets\\js\\sticker.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\js\\waypoints.js",
+      "PackagePath": "staticwebassets\\client\\assets\\js\\waypoints.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\client\\assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\webfonts\\fa-brands-400.eot_",
+      "PackagePath": "staticwebassets\\client\\assets\\webfonts\\fa-brands-400.eot_"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\client\\assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\client\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\client\\assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\client\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\client\\assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\webfonts\\fa-regular-400.eot_",
+      "PackagePath": "staticwebassets\\client\\assets\\webfonts\\fa-regular-400.eot_"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\client\\assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\client\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\client\\assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\client\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\client\\assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\webfonts\\fa-solid-900.eot_",
+      "PackagePath": "staticwebassets\\client\\assets\\webfonts\\fa-solid-900.eot_"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\client\\assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\client\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\client\\assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\client\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\css\\styles.css",
+      "PackagePath": "staticwebassets\\client\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\client\\feane\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\client\\feane\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\client\\feane\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\css\\style.css",
+      "PackagePath": "staticwebassets\\client\\feane\\css\\style.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\client\\feane\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\css\\style.scss",
+      "PackagePath": "staticwebassets\\client\\feane\\css\\style.scss"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\client\\feane\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\client\\feane\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\client\\feane\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\client\\feane\\images\\about-img.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\images\\client1.jpg",
+      "PackagePath": "staticwebassets\\client\\feane\\images\\client1.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\images\\client2.jpg",
+      "PackagePath": "staticwebassets\\client\\feane\\images\\client2.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\images\\f1.png",
+      "PackagePath": "staticwebassets\\client\\feane\\images\\f1.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\images\\f2.png",
+      "PackagePath": "staticwebassets\\client\\feane\\images\\f2.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\images\\f3.png",
+      "PackagePath": "staticwebassets\\client\\feane\\images\\f3.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\images\\f4.png",
+      "PackagePath": "staticwebassets\\client\\feane\\images\\f4.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\images\\f5.png",
+      "PackagePath": "staticwebassets\\client\\feane\\images\\f5.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\images\\f6.png",
+      "PackagePath": "staticwebassets\\client\\feane\\images\\f6.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\images\\f7.png",
+      "PackagePath": "staticwebassets\\client\\feane\\images\\f7.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\images\\f8.png",
+      "PackagePath": "staticwebassets\\client\\feane\\images\\f8.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\images\\f9.png",
+      "PackagePath": "staticwebassets\\client\\feane\\images\\f9.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\client\\feane\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\client\\feane\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\images\\o1.jpg",
+      "PackagePath": "staticwebassets\\client\\feane\\images\\o1.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\images\\o2.jpg",
+      "PackagePath": "staticwebassets\\client\\feane\\images\\o2.jpg"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\client\\feane\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\js\\custom.js",
+      "PackagePath": "staticwebassets\\client\\feane\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\feane\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\client\\feane\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\client\\js\\cart.js",
+      "PackagePath": "staticwebassets\\client\\js\\cart.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\sanbox\\Asp\\AppCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AppCore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AppCore.props",
+      "PackagePath": "build\\AppCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AppCore.props",
+      "PackagePath": "buildMultiTargeting\\AppCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AppCore.props",
+      "PackagePath": "buildTransitive\\AppCore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

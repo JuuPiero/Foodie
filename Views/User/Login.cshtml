@@ -1,0 +1,41 @@
+@model AppCore.Models.ViewModels.LoginRequest
+@{
+    Layout = "Client/_Layout";
+    ViewData["Title"] = "User login";
+}
+@if (ViewBag.Message != null) {
+    <div class="alert alert-info">@ViewBag.Message</div>
+}
+<div class="login-section mt-4 ">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 container">
+                <div class="checkout-accordion-wrap">
+                    <div class="accordion" id="accordionExample">
+                        <div class="card single-accordion">
+                            <div class="card-header bg-dark" id="headingOne">
+                                <h1 class="p-3 text-light">Login</h1>
+                            </div>
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                <div class="card-body">
+                                    <div class="billing-address-form">
+                                        <form method="post" asp-controller="User" asp-action="PostLogin" >
+                                            <p><input type="email" placeholder="Email" required asp-for="Email"></p>
+                                            <p><input type="password" placeholder="Password" asp-for="Password"></p>
+                                            <label for="" class="d-flex gap-2"><input class="mr-2" type="checkbox" asp-for="RememberMe" /><strong>Remember me</strong></label>
+                                            <button type="submit" class="btn btn-lg bg-info w-100 p-3">Submit</button>
+                                            @* <p><input type="tel" placeholder="Phone"></p> *@
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                             <div class="card-footer" id="headingOne">
+                                <h4 class="p-3">Not a memeber ? <a asp-controller="User" asp-action="Register">Signup Now</a></h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

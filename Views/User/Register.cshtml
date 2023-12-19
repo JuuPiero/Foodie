@@ -1,0 +1,38 @@
+@model AppCore.Models.ViewModels.RegisterRequest
+@{
+    Layout = "Client/_Layout";
+    @* ViewData["Title"] = "User login"; *@
+}
+<div class="login-section mt-2 ">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 container">
+                <div class="register-accordion-wrap">
+                    <div class="accordion" id="accordionExample">
+                        <div class="card single-accordion">
+                            <div class="card-header bg-dark" id="headingOne">
+                                <h1 class="p-3 text-light">Register</h1>
+                            </div>
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                <div class="card-body">
+                                    <div class="billing-address-form">
+                                        <form method="post" asp-controller="User" asp-action="PostRegister">
+                                            <p><input type="text" placeholder="First Name" required asp-for="FirstName"></p>
+                                            <p><input type="text" placeholder="Last Name" required asp-for="LastName"></p>
+                                            <p><input type="email" placeholder="Email" required asp-for="Email"></p>
+                                            <p><input type="text" placeholder="Phone Number" required asp-for="PhoneNumber"></p>
+                                            <p><input type="password" placeholder="Password" required asp-for="Password"></p>
+                                            <p><input type="password" placeholder="Retype Password" required></p>
+                                            <p><textarea cols="30" rows="10" placeholder="Your Address" asp-for="Address"></textarea></p>
+                                            <button type="submit" class="btn btn-lg bg-info w-100 p-3">Submit</button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
