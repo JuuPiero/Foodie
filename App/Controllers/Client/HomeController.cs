@@ -27,6 +27,8 @@ public class HomeController : Controller {
             cart = HttpContext.Session.GetObject<Cart>("Cart");
         }
         IEnumerable<Product> products  = await _productRepository.GetAllProductsAsync();
+        IEnumerable<Category> categories  = await _categoryRepository.GetAllCategoriesActiveAsync();
+        ViewData["Categories"] = categories;
         ViewData["Products"] = products;
         return View();
     }

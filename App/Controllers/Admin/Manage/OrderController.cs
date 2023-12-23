@@ -5,7 +5,8 @@ using AppCore.Filters;
 using AppCore.Models;
 using AppCore.Models.ViewModels;
 using AppCore.App.Repositories;
-
+using AppCore.Data;
+using Microsoft.EntityFrameworkCore;
 namespace AppCore.Controllers;
 
 
@@ -13,9 +14,12 @@ namespace AppCore.Controllers;
 public class OrderController : Controller {
     private readonly ILogger<OrderController> _logger;
     private OrderRepository _orderRepository;
-    public OrderController(ILogger<OrderController> logger, OrderRepository orderRepository) {
+
+     private readonly ApplicationDbContext _dbContext;
+    public OrderController(ILogger<OrderController> logger, OrderRepository orderRepository, ApplicationDbContext dbContext) {
         _logger = logger;
         _orderRepository = orderRepository;
+        _dbContext = dbContext;
     }
 
     [Route("Admin/Order")]
@@ -25,20 +29,25 @@ public class OrderController : Controller {
     }
 
     [Route("Admin/Order/Detail/{orderId}")]
-    public IActionResult Detail() {
+    public async Task<IActionResult> Detail(int orderId) {
+        var orderItems = from orderItem in _dbContext.OrderItems
+                        join product in _dbContext.Products on orderItem.ProductId equals product.ProductId
+                        // join order in _dbContext.Orders on orderItem.OrderId equals order.OrderId
+                        where orderItem.OrderId == orderId 
+                        select new OrderItemViewModel {
+                            // OrderId = order.OrderId,
+                            ProductId = orderItem.ProductId,
+                            ProductName = product.Name,
+                            Image = product.Image,
+                            Price = product.Price,
+                            Quantity = orderItem.Quantity
+                        };
+        var order = await _orderRepository.GetOrderByIdAsync(orderId);
+       
+        ViewData["OrderItems"] = await orderItems.ToListAsync();
+        ViewData["Amount"] = order.TotalAmount;
+        ViewData["orderId"] = orderId;
+
         return View("~/Views/Admin/Order/Detail.cshtml");
     }
-
-    // [Route("Admin/Order")]
-    // public async Task<IActionResult> Store() {
-    //     await _categoryRepository.AddCategoryAsync(new Category {
-    //         Name = categoryRequest.Name,
-    //         Image = categoryRequest.Image,
-    //         Description = categoryRequest.Description,
-    //         Active = categoryRequest.Active,
-    //         CreatedAt = DateTime.Now,
-    //         UpdatedAt = DateTime.Now
-    //     });
-    //     return RedirectToAction("Create");
-    // }
 }

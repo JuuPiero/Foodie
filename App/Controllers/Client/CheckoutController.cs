@@ -83,13 +83,14 @@ public class CheckoutController : Controller {
             });
         }
         cart.Clear();
+        HttpContext.Session.Remove("Cart");
+        HttpContext.Session.SetObject<Cart>("Cart", new Cart());
         return Json(new { success = true, message = "." , id = orderId, total = orderRequest.TotalAmount});
     }
 
     public IActionResult MomoCheckout() {
         // implement momo
         return Json(new {});
-
     }
 
     public IActionResult VnPayCheckout() {

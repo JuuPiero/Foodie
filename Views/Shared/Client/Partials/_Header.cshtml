@@ -3,7 +3,6 @@
 	bool isAuthenticated = Context.User.Identity.IsAuthenticated;
 	string userName = isAuthenticated ? Context.User.Identity.Name : "Guest";
 	var cart = Context.Session.GetObject<Cart>("Cart") ?? null;
-	
 }
 
 <!-- header -->
@@ -28,7 +27,6 @@
 							<li><a href="#">Pages</a>
 								<ul class="sub-menu">
 									<li><a href="404.html">404 page</a></li>
-									<li><a href="about.html">About</a></li>
 									<li><a href="cart.html">Cart</a></li>
 									<li><a href="checkout.html">Check Out</a></li>
 									<li><a href="contact.html">Contact</a></li>

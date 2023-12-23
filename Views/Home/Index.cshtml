@@ -2,6 +2,8 @@
     Layout = "Client/_Master";
     ViewData["Title"] = "Home Page";
     var products = ViewData["Products"] as IEnumerable<Product>;
+    var categories = ViewData["Categories"] as IEnumerable<Category>;
+
 }
 
 <!-- hero area -->
@@ -54,10 +56,17 @@
                 </div>
             }
         </div>
-
-        
     </div>
 </div>
+
+@section Slider {
+    @foreach(var category in categories) {
+        <div class="single-logo-item">
+            <a href="#"><img src="@category.Image" alt="@category.Name"></a>
+        </div>
+    }
+}
+
 
 <!-- end product section -->
 @section Script {
