@@ -39,10 +39,9 @@ public class Cart {
     }
     // public List<Product> GetProductsFromOrderItems(List<OrderItem> orderItems)
     // {
-        
-
     //     return products;
     // }
+    
     // private void SaveCart() {
     //     // var session = HttpContext.Session;
     //     // HttpContext.Session.Set<Cart>("Cart", this);

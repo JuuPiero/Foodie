@@ -33,7 +33,6 @@ builder.Services.AddIdentity<Account, IdentityRole>(options => {
 }).AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
 
 builder.Services.AddIdentityCore<Account>().AddEntityFrameworkStores<ApplicationDbContext>();
-builder.Services.AddIdentityCore<Account>().AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddScoped<SignInManager<Account>, SignInManager<Account>>();
 builder.Services.AddScoped<UserManager<Account>, UserManager<Account>>();
 
